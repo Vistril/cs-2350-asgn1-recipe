@@ -18,7 +18,7 @@ h2 {
 
 h3, li, ul {
     font-family:Abel;
-    font-size: 16pt;
+    font-size: 24pt;
     margin-left: 90px;
     color: #000;
 }
@@ -26,7 +26,7 @@ h3, li, ul {
 h4 {
     font-family:Abel;
     
-    color: #ddd;
+    color: #ddd
 }
 
 h5 {
