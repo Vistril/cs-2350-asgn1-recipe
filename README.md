@@ -2,11 +2,13 @@
 WSU CS 2350 Asgn #1 - Recipe Page
 
 __Purpose__
+
 Learn to use the basic HTML elements to create a simple web page.
 
 
 
 __Requirements__
+
 Create a recipe page with one of your favorite recipes.  The page should meet the following requirements:
 
 
