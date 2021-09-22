@@ -16,10 +16,10 @@ h2 {
     margin-right: 70px;
 }
 
-h3 {
+h3, li {
     font-family:Abel;
     margin-left: 90px;
-    color: #ddd;
+    color: #000;
 }
 
 h4 {
